@@ -1,0 +1,7 @@
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\bin\Release\Assignment2Lib.dll
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\bin\Release\Assignment2Lib.pdb
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\bin\Release\nunit.framework.dll
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\bin\Release\nunit.framework.xml
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Release\Assignment2Lib.dll
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment 2\obj\x86\Release\Assignment2Lib.pdb

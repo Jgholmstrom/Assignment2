@@ -1,0 +1,5 @@
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2Program\bin\Release\Assignment2Program.exe
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2Program\bin\Release\Assignment2Program.pdb
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2Program\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2Program\obj\x86\Release\Assignment2Program.exe
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2Program\obj\x86\Release\Assignment2Program.pdb

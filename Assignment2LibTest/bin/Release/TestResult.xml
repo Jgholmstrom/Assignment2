@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Dropbox\C# Projects\Assignment 2\Assignment2LibTest\bin\Release\As2LibTest.dll" total="49" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-10-24" time="20:41:15">
+  <environment nunit-version="2.6.1.12217" clr-version="2.0.50727.5456" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.1\bin" machine-name="GYPSYDATORN" user="Gypsyhatten" user-domain="Gypsydatorn" />
+  <culture-info current-culture="sv-SE" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Dropbox\C# Projects\Assignment 2\Assignment2LibTest\bin\Release\As2LibTest.dll" executed="True" result="Success" success="True" time="0.140" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="As2LibTest" executed="True" result="Success" success="True" time="0.140" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="PersonTest" executed="True" result="Success" success="True" time="0.060" asserts="0">
+            <results>
+              <test-case name="As2LibTest.PersonTest.AddPersonEmptyEmail" executed="True" result="Success" success="True" time="0.040" asserts="0" />
+              <test-case name="As2LibTest.PersonTest.AddPersonEmptyFirst" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.PersonTest.AddPersonEmptyLast" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.PersonTest.AddPersonNullEmail" executed="True" result="Success" success="True" time="0.010" asserts="0" />
+              <test-case name="As2LibTest.PersonTest.AddPersonNullFirst" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.PersonTest.AddPersonNullLast" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.PersonTest.AddValidPerson" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="StudentTest" executed="True" result="Success" success="True" time="0.040" asserts="0">
+            <results>
+              <test-case name="As2LibTest.StudentTest.AddStudentEmptyProgram" executed="True" result="Success" success="True" time="0.010" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.AddStudentNegativeStartYear" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.AddStudentNullDictionary" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.AddStudentNullProgram" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.AddStudentPreExistingDictionary" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.StudentTest.AddStudentZeroStartYear" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.AddValidStudent" executed="True" result="Success" success="True" time="0.000" asserts="6" />
+              <test-case name="As2LibTest.StudentTest.GetCreditsNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.GetCreditsWrong" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.GetValidCredits" executed="True" result="Success" success="True" time="0.010" asserts="1" />
+              <test-case name="As2LibTest.StudentTest.RemoveCreditsNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.RemoveCreditsWrong" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.RemoveValidCredits" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.StudentTest.SetCreditsEmptyKey" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.SetCreditsNegativeValue" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.SetCreditsNullKey" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.StudentTest.SetCreditsZeroValue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.StudentTest.SetValidCredits" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.StudentTest.ShowCreditsEmpty" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.StudentTest.ShowValidCredits" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TeacherTest" executed="True" result="Success" success="True" time="0.040" asserts="0">
+            <results>
+              <test-case name="As2LibTest.TeacherTest.AddCourseEmpty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.AddCourseNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.AddTeacherEmptyAffiliation" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.AddTeacherNegativeSalary" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.AddTeacherNullAffiliation" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.AddTeacherNullList" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.AddTeacherPreExistingList" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.TeacherTest.AddTeacherZeroSalary" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.TeacherTest.AddValidCourse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.TeacherTest.AddValidTeacher" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="As2LibTest.TeacherTest.ChangeCourseNewEmpty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.ChangeCourseNewNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.ChangeCourseOldEmpty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.ChangeCourseOldNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.ChangeCourseWrong" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.ChangeValidCourse" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="As2LibTest.TeacherTest.RemoveCourseEmpty" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.RemoveCourseNull" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.RemoveCourseWrong" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+              <test-case name="As2LibTest.TeacherTest.RemoveValidCourse" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="As2LibTest.TeacherTest.ShowCoursesEmpty" executed="True" result="Success" success="True" time="0.010" asserts="1" />
+              <test-case name="As2LibTest.TeacherTest.ShowValidCourses" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

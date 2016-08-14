@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]C:\Users\Gypsyhatten\Documents\Visual Studio 2010\Projects\Assignment 2\Assignment2LibTest\bin\Release\Assignment2LibTest.dll</TopNode>
+  <SelectedNode>[0-1004]C:\Users\Gypsyhatten\Documents\Visual Studio 2010\Projects\Assignment 2\Assignment2LibTest\bin\Release\Assignment2LibTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]C:\Users\Gypsyhatten\Documents\Visual Studio 2010\Projects\Assignment 2\Assignment2LibTest\bin\Release\Assignment2LibTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]Assignment2LibTest" Expanded="true" />
+    <Node UniqueName="[0-1000]Assignment2LibTest.StudentTest" Expanded="true" />
+  </Nodes>
+</VisualState>

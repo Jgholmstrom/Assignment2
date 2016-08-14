@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1052]D:\Dropbox\C# Projects\Assignment 2\Assignment2LibTest\bin\Release\As2LibTest.dll</TopNode>
+  <SelectedNode>[0-1004]As2LibTest.TeacherTest.AddTeacherZeroSalary</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1052]D:\Dropbox\C# Projects\Assignment 2\Assignment2LibTest\bin\Release\As2LibTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1053]As2LibTest" Expanded="true" />
+    <Node UniqueName="[0-1000]As2LibTest.TeacherTest" Expanded="true" />
+  </Nodes>
+</VisualState>

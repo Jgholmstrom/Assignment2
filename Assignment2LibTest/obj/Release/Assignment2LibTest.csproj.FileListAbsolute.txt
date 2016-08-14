@@ -1,0 +1,5 @@
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2LibTest\bin\Release\Assignment2LibTest.dll
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2LibTest\bin\Release\Assignment2LibTest.pdb
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2LibTest\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2LibTest\obj\Release\Assignment2LibTest.dll
+C:\Users\Gypsyhatten\documents\visual studio 2010\Projects\Assignment 2\Assignment2LibTest\obj\Release\Assignment2LibTest.pdb
